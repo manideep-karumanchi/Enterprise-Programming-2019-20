@@ -1,0 +1,6 @@
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll.config
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.dll
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\bin\CurrencyConverter.pdb
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.dll
+D:\collegedata\ep1 2019-20\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
