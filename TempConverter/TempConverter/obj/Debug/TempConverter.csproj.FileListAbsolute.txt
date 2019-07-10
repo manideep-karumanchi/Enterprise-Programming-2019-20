@@ -1,0 +1,6 @@
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\bin\TempConverter.dll.config
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\bin\TempConverter.dll
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\bin\TempConverter.pdb
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\obj\Debug\TempConverter.dll
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\obj\Debug\TempConverter.pdb
+D:\collegedata\ep1 2019-20\TempConverter\TempConverter\obj\Debug\TempConverter.csprojResolveAssemblyReference.cache
