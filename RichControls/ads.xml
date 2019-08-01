@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>./Images/g+.png</ImageUrl>
+    <NavigateUrl>http://googleplus.com</NavigateUrl>
+    <AlternateText>Google Plus</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Social Networking</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>./Images/amazon.png</ImageUrl>
+    <NavigateUrl>http://amazon.in</NavigateUrl>
+    <AlternateText>Amazon</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>ECommerce</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>./Images/flipkart.png</ImageUrl>
+    <NavigateUrl>http://flipkart.com</NavigateUrl>
+    <AlternateText>flipkart</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>ECommerce</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>./Images/fb.png</ImageUrl>
+    <NavigateUrl>http://facebook.com</NavigateUrl>
+    <AlternateText>Facebook</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>Social Networking</Keyword>
+  </Ad>
+</Advertisements>
