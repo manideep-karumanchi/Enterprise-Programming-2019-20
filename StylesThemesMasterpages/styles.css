@@ -1,0 +1,12 @@
+﻿body {
+    background-color:#ddeeff;
+}
+.classselector {
+    border: thick #FF00FF double;
+    background-color: darkred;
+    color: white;
+}
+#idselector {
+    font-family:'Old English Text MT';
+    font-size:xx-large;
+}

@@ -1,0 +1,6 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/masterpages/TableLayout.Master" AutoEventWireup="true" CodeBehind="p1.aspx.cs" Inherits="StylesThemesMasterpages.p1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<img src="images/header.jpg" />
+Overview
+The Bapatla Engineering College(Autonomous), one of the seven educational institutions sponsored by the Bapatla Education Society, was established in 1981 with a vision to impart quality technical education and is affiliated to Acharya Nagarjuna University. The College is a little away from the din and bustle of Bapatla, a town with a historic and hoary past, about 75 Km. south of Vijayawada on Chennai-Vijayawada rail route. The college offers B.Tech. Programmes in 8 faculties of Engineering- Civil, Computer Science, Electronics and Communications, Electrical and Electronics, Mechanical Engineering which are thrice NBA accredited, Electronics and Instrumentation, Chemical Engineering which are accredited twice and Information Technology which is accredited once. The college also offers 5 Post Graduate programmes in Communication Engineering & Signal Processing, Computer Science, Structural Engineering, Power Systems and CAD/CAM
+</asp:Content>
